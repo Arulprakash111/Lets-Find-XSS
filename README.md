@@ -56,10 +56,12 @@ python3 XSS-HUNTER.py --help
 * Multiprocessing support.✔️
 * ETC....
 
+The XSS-HUNTER tool has started checking cross-site scripting vulnerabilities. These are the vulnerabilities that the tool has detected. The tool keeps checking the website again and again. When finding a vulnerable website, it will show you at the terminal.
 
 ## Screenshot
-![Screenshot_2024-08-03_06_47_20](https://github.com/user-attachments/assets/2aa41444-5549-4dc3-9428-05e269dfda01)
 
+
+![Screenshot_2024-08-03_06_55_06](https://github.com/user-attachments/assets/070778d7-e6e4-459d-a745-04a693f16e7c)
 
 
 
