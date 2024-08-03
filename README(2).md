@@ -7,7 +7,7 @@ A powerful XSS scanner made in python 3.7<br/>
 
 Requirements: <br/>
 
-<li> BeautifulSoup4 </li>
+<li> </li>
 
 ```bash
 pip install bs4
@@ -22,22 +22,23 @@ pip install requests
 Commands:
 
 ```bash
-git clone https://github.com/menkrep1337/XSSCon
-chmod 755 -R XSSCon
-cd XSSCon
+git clone https://github.com/Arulprakash111/Lets-Find-XSS.git
+cd Lets-Find-XSS
+ls
+chmod 777 XSS-HUNTER.py requirements.txt
 python3 xsscon.py --help 
 ```
 ## Usage
 Basic usage:
 
 ```bash
-python3 xsscon.py -u http://testphp.vulnweb.com
+python3 XSS-HUNTER.py -u http://testphp.vulnweb.com
 ```
 <br/>
 Advanced usage:
 
 ```bash
-python3 xsscon.py --help
+python3 XSS-HUNTER.py --help
 ```
 
 ## Main features
@@ -78,4 +79,6 @@ v0.5 Release (Final):
 * Sorry for my bad english 
 * if you run xsscon on the win10 terminal you will get an untidy output
 * now it doesn't support DOM
+
+  LICENCED BY: ARUL PRAKASH R
 
