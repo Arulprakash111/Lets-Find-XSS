@@ -66,11 +66,6 @@ The XSS-HUNTER tool has started checking cross-site scripting vulnerabilities. T
 
 
 
-v0.5 Release (Final):
-------
-* Bug fixed
-* Now cookies is supported. (--cookie {}) 
-
 
   LICENCED BY: ARUL PRAKASH R
 
