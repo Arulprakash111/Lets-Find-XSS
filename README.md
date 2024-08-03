@@ -9,7 +9,9 @@ A powerful XSS HUNTER made in python 0.5<br/>
 
 ## Installing
 
-Requirements: <br/>
+Requirements:
+Install the required package (bs4/beautifulsoup) using the following command.
+<br/>
 
 <li> </li>
 
@@ -17,7 +19,7 @@ Requirements: <br/>
 pip install bs4
 ```
 <li> requests </li>
-
+Install the required package (requests) using the following command.
 ```bash
 pip install requests
 ```
