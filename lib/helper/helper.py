@@ -1,5 +1,5 @@
 '''
-Lets-Find-XSS - 2019/2020
+Lets-Find-XSS - 2024
 This project was created by Arul Prakash R with Cyber Security team. 
 Copyright under the MIT license
 '''
