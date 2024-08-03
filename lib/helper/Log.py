@@ -1,6 +1,6 @@
 '''
-XSSCon - 2019/2020
-This project was created by menkrep1337 with 407Aex team. 
+XSSCon - 2024
+This project was created by ArulPrakash.R with Cyber Security team. 
 Copyright under the MIT license
 '''
 from lib.helper.helper import * 
