@@ -1,6 +1,10 @@
 <p align="center">
- <img src="images/logo.png" height="200"><br/>
-A powerful XSS HUNTER made in python 3.7<br/>
+ 
+ ![Screenshot_2024-08-03_06_47_20](https://github.com/user-attachments/assets/d2695a1e-c4da-48e8-b056-0f00aa5ce643)
+
+ 
+ <br/>
+A powerful XSS HUNTER made in python 0.5<br/>
 
 
 ## Installing
@@ -52,33 +56,17 @@ python3 XSS-HUNTER.py --help
 
 
 ## Screenshot
+![Screenshot_2024-08-03_06_47_20](https://github.com/user-attachments/assets/2aa41444-5549-4dc3-9428-05e269dfda01)
 
-<img src="images/screenshot.png">
 
-## Roadmap
 
-v0.3B:
-------
-<li> Added custom options ( --proxy, --user-agent etc... )</li>
-<br/>
 
-v0.3B Patch:
-------
-<li>Added support for ( form method GET ) </li>
-
-v0.4B:
-------
-<li>Improved Error handling</li>
-<li>Now Multiple parameters for GET method is Supported</li>
 
 v0.5 Release (Final):
 ------
 * Bug fixed
 * Now cookies is supported. (--cookie {}) 
-## Note
-* Sorry for my bad english 
-* if you run xsscon on the win10 terminal you will get an untidy output
-* now it doesn't support DOM
+
 
   LICENCED BY: ARUL PRAKASH R
 
