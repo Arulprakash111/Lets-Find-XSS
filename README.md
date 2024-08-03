@@ -1,4 +1,4 @@
-<h1>XSS HUNTER</h1>
+<center><h1>XSS-HUNTER</h1></center>
 <p align="center">
  
  ![Screenshot_2024-08-03_06_47_20](https://github.com/user-attachments/assets/d2695a1e-c4da-48e8-b056-0f00aa5ce643)
