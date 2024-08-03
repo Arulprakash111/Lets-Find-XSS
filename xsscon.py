@@ -1,6 +1,6 @@
 '''
-XSSCon - 2019/2020
-This project was created by menkrep1337 with 407Aex team. 
+Lets-Find-XSS
+This project was created by Arul Prakash.R with Cyber Secuirty team. 
 Copyright under the MIT license
 '''
 import argparse
@@ -10,7 +10,7 @@ from lib.core import *
 from random import randint
 from lib.crawler.crawler import *
 epilog="""
-Github: https://www.github.com/menkrep1337/XSSCon
+Github: https://github.com/Arulprakash111/Lets-Find-XSS
 Version: 0.5 Final
 """
 def check(getopt):
@@ -59,10 +59,10 @@ def start():
 	elif getopt.about:
 		print("""
 ***************
-Project: XSSCon
+Project: XSS-HUNTER
 License: MIT
-Author: menkrep1337
-Last updates: 2019 may 26
+Author: Arul Prakash
+Last updates: 2024 Aug 1
 Note: Take your own RISK
 ****************
 """+epilog)
