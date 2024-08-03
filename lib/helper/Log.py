@@ -1,5 +1,5 @@
 '''
-XSSCon - 2024
+XSS-HUNTER - 2024
 This project was created by ArulPrakash.R with Cyber Security team. 
 Copyright under the MIT license
 '''
