@@ -33,7 +33,7 @@ git clone https://github.com/Arulprakash111/Lets-Find-XSS.git
 cd Lets-Find-XSS
 ls
 chmod 777 XSS-HUNTER.py requirements.txt
-python3 xsscon.py --help 
+python3 XSS-HUNTER.py --help 
 ```
 ## Usage
 Basic usage:
